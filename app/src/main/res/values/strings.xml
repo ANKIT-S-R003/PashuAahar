@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Pashu Aahar</string>
+    <string name="dashboard_title">Farmer\'s Dashboard</string>
+    <string name="total_cows">Total Cows</string>
+    <string name="daily_milk">Daily Milk</string>
+    <string name="estimated_savings">Total Savings</string>
+    <string name="savings_trend">Savings Trend</string>
+    <string name="quick_actions">Quick Actions</string>
+    <string name="add_cow_action">Add Cow</string>
+    <string name="get_feed_action">Get Feed</string>
+    <string name="add_new_cattle">Add New Cattle</string>
+    <string name="step_identity">Identity</string>
+    <string name="step_milk_data">Milk Data</string>
+    <string name="cow_name">Cow Name/ID</string>
+    <string name="breed">Breed</string>
+    <string name="age">Age (Years)</string>
+    <string name="daily_milk_yield">Daily Milk Yield (L)</string>
+    <string name="milk_data_hint">Milk data is used to optimize the feed nutrients.</string>
+    <string name="back">Back</string>
+    <string name="save_profile">Save Profile</string>
+    <string name="next">Next</string>
+    <string name="feed_recommendation">Feed Recommendation</string>
+    <string name="current_season">Current Season</string>
+    <string name="select_cattle">Select Cattle</string>
+    <string name="daily_savings_format">Daily Savings: ₹%.2f</string>
+    <string name="add_cow_hint">Add a cow profile to get feed recommendations.</string>
+    <string name="your_herd">Your Herd</string>
+    <string name="health_tips">Health Tips</string>
+    <string name="history_title">Recipe History</string>
+    <string name="voice_listening">Listening for cow details...</string>
+    <string name="voice_error">Could not understand. Please try again.</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_cows">Cows</string>
+    <string name="nav_tips">Tips</string>
+    <string name="nav_history">History</string>
+</resources>

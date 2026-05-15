@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">पशु आहार (Pashu Aahar)</string>
+    <string name="dashboard_title">किसान डैशबोर्ड</string>
+    <string name="total_cows">कुल गायें</string>
+    <string name="daily_milk">दैनिक दूध</string>
+    <string name="estimated_savings">कुल बचत</string>
+    <string name="savings_trend">बचत का रुझान</string>
+    <string name="quick_actions">त्वरित कार्य</string>
+    <string name="add_cow_action">गाय जोड़ें</string>
+    <string name="get_feed_action">आहार लें</string>
+    <string name="add_new_cattle">नई गाय जोड़ें</string>
+    <string name="step_identity">पहचान</string>
+    <string name="step_milk_data">दूध का डेटा</string>
+    <string name="cow_name">गाय का नाम/आईडी</string>
+    <string name="breed">नस्ल</string>
+    <string name="age">उम्र (वर्ष)</string>
+    <string name="daily_milk_yield">दैनिक दूध उत्पादन (लीटर)</string>
+    <string name="milk_data_hint">दूध के डेटा का उपयोग आहार पोषक तत्वों को अनुकूलित करने के लिए किया जाता है।</string>
+    <string name="back">पीछे</string>
+    <string name="save_profile">प्रोफ़ाइल सहेजें</string>
+    <string name="next">अगला</string>
+    <string name="feed_recommendation">आहार अनुशंसा</string>
+    <string name="current_season">वर्तमान मौसम</string>
+    <string name="select_cattle">गाय चुनें</string>
+    <string name="daily_savings_format">दैनिक बचत: ₹%.2f</string>
+    <string name="add_cow_hint">आहार अनुशंसाएं प्राप्त करने के लिए एक गाय प्रोफ़ाइल जोड़ें।</string>
+    <string name="your_herd">आपका झुंड</string>
+    <string name="health_tips">स्वास्थ्य सुझाव</string>
+    <string name="history_title">आहार इतिहास</string>
+    <string name="voice_listening">गाय के विवरण के लिए सुन रहे हैं…</string>
+    <string name="voice_error">समझ नहीं आया। कृपया पुनः प्रयास करें।</string>
+    <string name="nav_home">होम</string>
+    <string name="nav_cows">गायें</string>
+    <string name="nav_tips">सुझाव</string>
+    <string name="nav_history">इतिहास</string>
+</resources>
