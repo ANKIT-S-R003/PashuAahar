@@ -31,7 +31,9 @@ Pashu Aahar is an Android application designed to help farmers and cattle owners
 
 ## 📸 Screenshots
 
-*(Add your screenshots here)*
+|<img width="1280" height="2856" alt="Screenshot_20260515_173740" src="https://github.com/user-attachments/assets/36259f27-fd9e-471b-8067-c5de1605fe44" />|<img width="1280" height="2856" alt="Screenshot_20260515_173818" src="https://github.com/user-attachments/assets/147076e9-29e0-4220-a1f4-1c57f38fa51c" />|
+
+
 
 ## 🛠️ Getting Started
 
